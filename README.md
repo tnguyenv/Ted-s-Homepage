@@ -1,2 +1,2 @@
 # Thinh.ca-Home
-thinh.ca
+[Live](http://home.thinh.ca)
