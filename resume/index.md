@@ -5,3 +5,6 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://home.thinh.ca/dsresume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+[Download PDF](http://home.thinh.ca/dsresume.pdf)
